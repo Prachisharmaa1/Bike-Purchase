@@ -114,8 +114,6 @@ Author
 Prachi Sharma www.linkedin.com/in/prachi-sharma-11831330b
 Data Analytics Portfolio Project
 
----
-
 ## ✅ Conclusion
 
 The Bike Purchase Analysis Dashboard offers valuable insights into customer purchasing behavior. By leveraging demographic and regional data, organizations can improve marketing effectiveness, identify high-value customer segments, and make informed business decisions to increase bike sales.
