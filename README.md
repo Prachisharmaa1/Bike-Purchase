@@ -110,6 +110,10 @@ The dataset contains the following fields:
 
 Provides a comprehensive overview of customer demographics and bike purchasing trends through interactive visualizations and KPI tracking.
 
+Author
+Prachi Sharma www.linkedin.com/in/prachi-sharma-11831330b
+Data Analytics Portfolio Project
+
 ---
 
 ## ✅ Conclusion
