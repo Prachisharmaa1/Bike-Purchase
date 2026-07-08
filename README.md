@@ -166,3 +166,5 @@ The dashboard includes slicers for:
 GitHub: https://github.com/Prachisharmaa1/Bike-Purchase
 
 LinkedIn: www.linkedin.com/in/prachi-sharma-11831330b
+
+Gmail: prachi2sharma000@gmail.com
