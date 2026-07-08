@@ -163,8 +163,8 @@ The dashboard includes slicers for:
 
 **Prachi Sharma**
 
-GitHub: https://github.com/Prachisharmaa1/Bike-Purchase
+📧 Gmail: prachi2sharma000@gmail.com
 
-LinkedIn: www.linkedin.com/in/prachi-sharma-11831330b
+🐙 GitHub: https://github.com/Prachisharmaa1/Retail-Sale-Performance
 
-Gmail: prachi2sharma000@gmail.com
+💼 LinkedIn: www.linkedin.com/in/prachi-sharma-11831330b
