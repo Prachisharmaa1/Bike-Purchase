@@ -9,7 +9,7 @@ The **Bike Purchase Analysis Dashboard** is an interactive **Power BI** project 
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="dashboard image.png">
+  <img src="dashboard.png">
 </p>
 
 ---
