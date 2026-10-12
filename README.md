@@ -2,7 +2,9 @@
 
 ## 📖 Overview
 
-The **Bike Purchase Analysis Dashboard** is an interactive **MICROSOFT EXCEL** project that analyzes customer purchasing behavior based on demographic information. The dashboard enables users to explore bike purchase trends through dynamic visualizations and interactive filters.
+## 📖 Overview
+
+The **Bike Purchase Analysis Dashboard** is an interactive **Microsoft Excel project** that analyzes customer purchasing behavior based on demographic information. It helps users understand bike purchase trends through charts, KPI summaries, and interactive slicers. The dashboard provides insights into customer preferences based on gender, region, education level, and marital status, supporting better data-driven decision-making.
 
 ---
 
